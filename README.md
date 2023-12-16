@@ -4,7 +4,7 @@ A home wifi thermostat with a Raspberry PI-3 with TFT screen and an ESP8266  mea
 ### Overview
 This wifi thermometer based on a DHT22 sensor monitors temperature and humidity in my garden
 
-[![](https://github.com/guido57/MyThermostat/blob/master/off.PNG)](https://github.com/guido5
+[![](https://github.com/guido57/ESP32-therm-batt-DHT22/blob/main/docs/wifi-therm-supply%20schematic.png)](https://github.com/guido57/ESP32-therm-batt-DHT22/blob/main/docs/wifi-therm-supply%20schematic.png)
 
 ### Logic Diagram 
 [![N|Solid](https://github.com/guido57/MyThermostat/blob/master/Logic%20Diagram%20And%20Schematic%20v1.PNG)](https://github.com/guido57/MyThermostat/blob/master/Logic%20Diagram%20And%20Schematic%20v1.PNG)
